@@ -1,0 +1,32 @@
+body {
+	background-color: #000000; 
+	margin: 0px; 
+	padding: 0px;
+}
+
+.cc-window {
+	background-color: #000000;
+}
+
+.cc-message {
+	color: #FFFFFF;
+}
+
+.cc-link {
+	color: #DDD !important; 
+}
+
+.cc-dismiss {
+	border-color: transparent !important;
+	color: #FFF;
+	background-color: #14a7d0;
+}
+
+.cc-dismiss:hover {
+	background-color: #5dcfef;
+}
+
+#collage {
+	width: 100%; 
+	height: 100%;
+}
